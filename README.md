@@ -30,7 +30,11 @@
 
 ## Usage
 
+``` make
+g++ -o tsp main.cpp 
+./tsp
 
+```
 
 ## Contributing
 
