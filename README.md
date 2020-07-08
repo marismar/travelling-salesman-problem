@@ -4,5 +4,5 @@ Projeto desenvolvido durante a primeira TSP Cup, entre alunos de engenharia e de
 
 
 <p align="center">
-  <img src="network-layers.png" weight=400 />
+  <img src="podio-final.png" weight=200 />
 </p>
