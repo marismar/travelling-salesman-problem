@@ -31,7 +31,7 @@
 ## Usage
 
 ``` make
-g++ -o tsp main.cpp 
+g++ -o tsp main.cpp tsp.cpp
 ./tsp
 
 ```
