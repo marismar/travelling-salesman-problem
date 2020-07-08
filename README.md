@@ -37,7 +37,7 @@ g++ -o tsp main.cpp tsp.cpp
 
 ## Contributing
 
-Contributions, issues and feature requests are welcome!
+Contributions, issues and feature requests are welcome! </br>
 Feel free to check [issues page](https://github.com/marismarcosta/travelling-salesman-problem/issues).
 
 ## Show your support
