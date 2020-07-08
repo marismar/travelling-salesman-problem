@@ -23,18 +23,14 @@
   <img src="podio-final.png" weight=200 />
 </p>
 
-<p align="center">
-  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license">License</a>
-</p>
 
 ## About
 
 
 
 ## Usage
+
+
 
 ## Contributing
 
