@@ -1,10 +1,7 @@
-# travelling-salesman-problem
-Projeto desenvolvido durante a primeira TSP Cup, entre alunos de engenharia e de ciência da computação no Centro de Informática - UFPB.
-
 <h1 align="center">Travelling Salesman Problem</h1>
 
 <h4 align="center">
-  Projeto desenvolvido durante a primeira TSP Cup, entre alunos de engenharia e de ciência da computação no Centro de Informática - UFPB 🏆🥇
+  Project developed for the 1st TSP Cup, a programming competition among students of computer science and engineering at Mangabeira Institute of Technology 🏆🥇
 </h4>
 
 <p align="center">
@@ -27,14 +24,17 @@ Projeto desenvolvido durante a primeira TSP Cup, entre alunos de engenharia e de
 </p>
 
 <p align="center">
-  <a href="#overview">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a>
 </p>
 
-## Setup
+## About
 
-## Run
+
+
+## Usage
 
 ## Contributing
 
