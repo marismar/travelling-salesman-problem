@@ -33,7 +33,6 @@
 ``` 
 g++ -o tsp main.cpp tsp.cpp
 ./tsp
-
 ```
 
 ## Contributing
