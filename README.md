@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="podio-final.png" weight=200 />
+  <img src=".github/podio-final.png" weight=200 />
 </p>
 
 
