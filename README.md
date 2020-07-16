@@ -1,7 +1,7 @@
 <h1 align="center">Travelling Salesman Problem</h1>
 
 <h4 align="center">
-  Project developed for the 1st TSP Cup, a programming competition among students of computer science and engineering at Mangabeira Institute of Technology 🏆🥇
+  Project developed for the I TSP Cup, a programming competition among students of computer science and engineering at Mangabeira Institute of Technology 🏆🥇
 </h4>
 
 <p align="center">
