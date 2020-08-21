@@ -26,7 +26,9 @@
 
 ## About
 
-The TSP Cup was a programming competition among students of computer science and engineering at Mangabeira Institute of Technology.
+The TSP Cup was a programming competition among students of computer science and engineering at Mangabeira Institute of Technology. The competition aimed to implement solutions to the traveling salesman problem. Thus, given the test instances, the participants had to develop code that returned the best results for the problem.
+
+Through this code that I developed with the collaboration of Gabriel Patrício, we were the winners of the I tsp cup.
 
 ## Usage
 
